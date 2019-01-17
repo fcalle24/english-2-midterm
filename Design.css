@@ -14,3 +14,7 @@ li a {
 a:active {
     color: ivory;
 }
+
+li.nav {
+    display: inline;
+}
