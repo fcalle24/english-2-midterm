@@ -18,3 +18,9 @@ a:active {
 li.nav {
     display: inline;
 }
+
+.home {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
